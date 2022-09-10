@@ -1,0 +1,3 @@
+[submodule "a2billing"]
+	path = a2billing
+	url = https://github.com/Star2Billing/a2billing
